@@ -1,0 +1,25 @@
+{
+  "name": "my-docsifyjstutorial",
+  "version": "1.0.0",
+  "description": "> Starter template for a Markdown-based docs site",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "docsify serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgedLace/my-docsifyJSTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgedLace/my-docsifyJSTutorial/issues"
+  },
+  "homepage": "https://github.com/AgedLace/my-docsifyJSTutorial#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.3"
+  }
+}

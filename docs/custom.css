@@ -1,0 +1,143 @@
+:root {
+  --docsifytabs-border-color: #efefef;
+  --docsifytabs-tab-highlight-color: #663399;
+}
+
+.content,
+.markdown-section {
+  font-size: 16px;
+  font-size: 1.2rem;
+}
+
+.sidebar .sidebar-nav>ul>li {
+  font-weight: 700;
+  margin: 0;
+}
+
+.myButton {
+  background-color: var(--theme-color);
+  color: white;
+  /* Slightly larger */
+  font-size: 1.0em;
+  /* Round the edges */
+  border-radius: 8px;
+  padding: 6px 12px;
+  /* Change cursor on hover */
+  cursor: pointer;
+}
+.myButton:hover {
+  filter: brightness(110%)
+}
+/* Shift the button down on click */
+.myButton:active {
+  position:relative;
+  top: 2px;
+}
+
+h1, h2 {
+  margin-bottom: 0;
+}
+
+h2 > .anchor span {
+  font-weight: 600;
+}
+
+h3 > .anchor span {
+  color: #3335ce;
+  text-transform: capitalize;
+}
+
+h4 > .anchor span {
+  text-transform: capitalize;
+  color: #009966;
+}
+
+.sidebar {
+  border-right: 3px solid #663399;
+}
+
+ {
+  margin-bottom: 0;
+}
+
+.sidebar ul li a {
+  text-decoration: none;
+} 
+
+img {
+  margin-left: 95px;
+}
+
+.markdown-section hr {
+  border: none;
+  border-bottom: 2px solid #663399;
+  margin: 0;
+  }
+
+.alert.callout {
+  font-style: italic;
+}
+
+.alert.callout.scripture {
+  border-top: 1px 0;
+  border-left-width: .25rem;
+  border-radius: .25rem;
+  border-color: #3335ce !important;
+}
+
+.alert.callout.scripture .icon {
+  background-image: url("imgs/bible.svg");
+}
+
+.alert.callout.scripture .title {
+  color: #3335ce;
+}
+
+.alert.callout.scripture h5 {
+  font-size: 1.2rem;
+  text-transform: capitalize;
+  margin: 10px 0;
+}
+
+.alert.callout.wordstudy {
+  border-color: #009966 !important;
+}
+
+.alert.callout.wordstudy .icon {
+  background-image: url("imgs/cross.svg");
+}
+
+.alert.callout.wordstudy .title {
+  color: #009966;
+}
+
+  .alert.callout.question {
+  border-color: #ff6600 !important;
+}
+
+.alert.callout.question .icon {
+  background-image: url("imgs/question.svg");
+}
+
+.alert.callout.question .title {
+  color: #ff6600;
+}
+
+.alert.callout.my-note {
+	border-color: #3399ff  !important;
+}
+
+.my-note .icon {
+  background-image: url("imgs/dove.svg");
+}
+
+.alert.callout.my-note .title {
+  color: #3399ff;
+}
+
+
+.docsify-pagination-container {
+  color: #663399;
+  border-top: 2px solid #663399 !important;
+  font-size: .5em;
+}
