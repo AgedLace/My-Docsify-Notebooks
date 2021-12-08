@@ -38,14 +38,14 @@
 | grace | G5485 | grace, kindness |
 | abound | G4052 | to be over and above, to abound |
 | to you, so | G2443 | in order that, so that |
-| that always <br> that | G3842 | at all times |
+| that always <br> [ that ] | G3842 | at all times |
 | having | G2192 | to have, hold |
 | all | G 3956 | all, every |
 | sufficiency | G841 | self-satisfaction, i.e. self-sufficiency |
-| in everything <br> in all things at all times | G3956 | all, every |
+| in everything <br> [ in all things at all times ] | G3956 | all, every |
 | you may have | G2192 | to have, hold |
-| an abundance <br> abound | G4052 | to be over and above, to abound |
-| for every <br> in every | G3956 | all, every |
+| an abundance <br> [abound ] | G4052 | to be over and above, to abound |
+| for every <br> [ in every ] | G3956 | all, every |
 | good | G18 | good |
-| deed <br> work | G2041 | work |
+| deed <br> [ work ] | G2041 | work |
 </div>
