@@ -30,7 +30,7 @@
 
 
 |      NASB <br> [BSB]       |      Strongs     |  Word Study         |
-| :--------------- | :-------------------| :----------------------- |
+| --------------- | -------------------| ----------------------- |
 | And God | G2316 | God, a god |
 | is able | G1414 <br> dunateo | to be able, be powerful <br> Usage: I am powerful, have power, am able, am mighty <br><br> **HELPS Word-studies** <br> **Cognate 1414** *dynateo* - to exert overwhelming unstoppable power.  See 1411 (*dynamis*)|
 | to make | G4052 <br> perisseuo | to be over and above, to abound <br> Usage: (a) intrans: I exceed the ordinary (the necessary), abound, overflow; am left over, (b) trans: I cause to abound. <br><br> **HELPS Word-studies** <br> **4052** *perisseuo* (from 4012 */peri*, "all-around" which indicates abundance or surplus - properly, exceed, go beyond the expected measure, i.e. above and beyond ("more than ..."); "what goes further (more) *surpasses* (J.Thayer). |
