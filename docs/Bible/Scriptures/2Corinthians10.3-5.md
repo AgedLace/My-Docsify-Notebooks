@@ -2,20 +2,40 @@
 ---
 
 **KJV**
-
-3 For though we walk in the flesh, we do not war after the flesh: 4 (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;) 5 Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
+> 3 For though we walk in the flesh, we do not war after the flesh: 
+>
+> 4 (For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;) 
+>
+> 5 Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;
 
 **BSB**
-3 For though we live in the flesh, we do not wage war according to the flesh. 4 The weapons of our warfare are not the weapons of the world. Instead, they have divine power to demolish strongholds. 5 We tear down arguments and every presumption set up against the knowledge of God; and we take captive every thought to make it obedient to Christ.
+> 3 For though we live in the flesh, we do not wage war according to the flesh. 
+>
+> 4 The weapons of our warfare are not the weapons of the world. Instead, they have divine power to demolish strongholds. 
+>
+> 5 We tear down arguments and every presumption set up against the knowledge of God; and we take captive every thought to make it obedient to Christ.
 
 **BLB**
-3 For walking in flesh, we do not wage war according to flesh. 4 For the weapons of our warfare are not fleshly, but divinely powerful toward the demolition of strongholds, 5 overthrowing arguments, and every high thing lifting itself up against the knowledge of God, and taking captive every thought into the obedience of Christ,
+3 For walking in flesh, we do not wage war according to flesh. 
+>
+> 4 For the weapons of our warfare are not fleshly, but divinely powerful toward the demolition of strongholds, 
+>
+> 5 overthrowing arguments, and every high thing lifting itself up against the knowledge of God, and taking captive every thought into the obedience of Christ,
 
 **AMP**
-3 For though we walk in the flesh [as mortal men], we are not carrying on our [spiritual] warfare according to the flesh and using the weapons of man. 4 The weapons of our warfare are not physical [weapons of flesh and blood]. Our weapons are divinely powerful for the destruction of fortresses. 5 We are destroying sophisticated arguments and every exalted and proud thing that sets itself up against the [true] knowledge of God, and we are taking every thought and purpose captive to the obedience of Christ,
+3 For though we walk in the flesh [as mortal men], we are not carrying on our [spiritual] warfare according to the flesh and using the weapons of man. 
+>
+> 4 The weapons of our warfare are not physical [weapons of flesh and blood]. Our weapons are divinely powerful for the destruction of fortresses. 
+>
+> 5 We are destroying sophisticated arguments and every exalted and proud thing that sets itself up against the [true] knowledge of God, and we are taking every thought and purpose captive to the obedience of Christ,
 
 **AMPC**
-3 For though we walk (live) in the flesh, we are not carrying on our warfare according to the flesh and using mere human weapons.  4 For the weapons of our warfare are not physical [weapons of flesh and blood], but they are mighty before God for the overthrow and destruction of strongholds,  5 [Inasmuch as we] refute arguments and theories and reasonings and every proud and lofty thing that sets itself up against the [true] knowledge of God; and we lead every thought and purpose away captive into the obedience of Christ (the Messiah, the Anointed One),
+> 3 For though we walk (live) in the flesh, we are not carrying on our warfare according to the flesh and using mere human weapons.  
+>
+> 4 For the weapons of our warfare are not physical [weapons of flesh and blood], but they are mighty before God for the overthrow and destruction of strongholds,  
+>
+> 5 [Inasmuch as we] refute arguments and theories and reasonings and every proud and lofty thing that sets itself up against the [true] knowledge of God; and we lead every thought and purpose away captive into the obedience of Christ (the Messiah, the Anointed One),
+
 <br>
 
 <div style="margin-left: auto;

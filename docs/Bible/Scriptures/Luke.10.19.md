@@ -2,25 +2,25 @@
 ---
 
 **KJV**
-Behold, I give unto power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you.
+> 19 Behold, I give unto power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you.
 
 **BSB**
-Behold, I have given you authority to tread on snakes and scorpions, and over all the power of the enemy.  Nothing will harm you.
+> 19 Behold, I have given you authority to tread on snakes and scorpions, and over all the power of the enemy.  Nothing will harm you.
 
 **BLB**
-Behold, I give you the authority to tread upon serpents and scorpions, and upon all the power of the enemy, and nothing will injure you.
+> 19 Behold, I give you the authority to tread upon serpents and scorpions, and upon all the power of the enemy, and nothing will injure you.
 
 **AMP**
-Listen carefully: I have given you authority ]that you now possess] to tread on serpents and scorpions, and [the ability to exercise authority] over all the power of the enemy (Satan); and nothing will [in any way] harm you.
+> 19 Listen carefully: I have given you authority [that you now possess] to tread on serpents and scorpions, and [the ability to exercise authority] over all the power of the enemy (Satan); and nothing will [in any way] harm you.
 
 **AMPC**
-Behold! I have given you authority *and* power to trample upon serpents and scorpions, and [physical and mental strength and ability] over all the power that the enemy [possesses]; and nothing shall in any way harm you.
+> 19 Behold! I have given you authority *and* power to trample upon serpents and scorpions, and [physical and mental strength and ability] over all the power that the enemy [possesses]; and nothing shall in any way harm you.
 
 <br>
 
 <div style="margin-left: auto;
-                  margin-right: auto;
-                  width: 95%">
+            margin-right: auto;
+            width: 95%">
 
 
 | NASB <br> [BSB] | Strongs | Word Study |
