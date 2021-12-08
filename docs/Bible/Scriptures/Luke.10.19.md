@@ -1,19 +1,35 @@
 # Luke 10:19
 ---
+<br>
 
-**KJV**
+> [!SCRIPTURE]  
+>  
+> --- 
+> **Luke 10:19 KJV**  
 > 19 Behold, I give unto power to tread on serpents and scorpions, and over all the power of the enemy: and nothing shall by any means hurt you.
 
-**BSB**
+> [!SCRIPTURE]  
+>  
+> --- 
+> **Luke 10:19 BSB**  
 > 19 Behold, I have given you authority to tread on snakes and scorpions, and over all the power of the enemy.  Nothing will harm you.
 
-**BLB**
+> [!SCRIPTURE]  
+>  
+> --- 
+> **Luke 10:19 BLB**  
 > 19 Behold, I give you the authority to tread upon serpents and scorpions, and upon all the power of the enemy, and nothing will injure you.
 
-**AMP**
+> [!SCRIPTURE]  
+>  
+> --- 
+> **Luke 10:19 AMP**  
 > 19 Listen carefully: I have given you authority [that you now possess] to tread on serpents and scorpions, and [the ability to exercise authority] over all the power of the enemy (Satan); and nothing will [in any way] harm you.
 
-**AMPC**
+> [!SCRIPTURE]  
+>  
+> --- 
+> **Luke 10:19 AMPC**  
 > 19 Behold! I have given you authority *and* power to trample upon serpents and scorpions, and [physical and mental strength and ability] over all the power that the enemy [possesses]; and nothing shall in any way harm you.
 
 <br>
