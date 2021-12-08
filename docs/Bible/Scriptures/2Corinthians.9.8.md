@@ -44,7 +44,7 @@
 | sufficiency | G841 <br> autarkeia | self-satisfaction, i.e. self-sufficiency <br> Usage: self-sufficiency, independence, contentment <br><br> **HELPS Word-studies** <br> **841** *autarkeia* (from 846 */autos*, "self" and 714 */arkeo*, "to suffice, be sufficient") - properly, *self-sufficient*, used of the Spirit-filled Christian - having *all they need within* through the *indwelling Christ*. |
 | in everything <br> [ in all things at all times ] | G3956 | all, every |
 | you may have | G2192 | to have, hold |
-| an abundance <br> [abound ] | G4052 <br> perisseuo | to be over and above, to abound <br> Usage: (a) intrans: I exceed the ordinary (the necessary), abound, overflow; am left over, (b) trans: I cause to abound. <br><br> **HELPS Word-studies** <br> **4052** *perisseuo* (from 4012 */peri*, "all-around" which indicates abundance or surplus - properly, exceed, go beyond the expected measure, i.e. above and beyond ("more than ..."); "what goes further (more) *surpasses* (J.Thayer). |
+| an abundance <br> [abound ] | G4052 <br> perisseuo | to be over and above, to abound <br> Usage: (a) intrans: I exceed the ordinary (the necessary), abound, overflow; am left over, (b) trans: I cause to abound. <br><br> **HELPS Word-studies** <br> **4052** *perisseuo* (from 4012 */peri*, "all-around" which indicates abundance or surplus - properly, exceed, go beyond the expected measure, i.e. above and beyond ("more than ..."); "what goes further (more) *surpasses* (J. Thayer). |
 | for every <br> [ in every ] | G3956 | all, every |
 | good | G18 | good |
 | deed <br> [ work ] | G2041 <br> ergon | work <br> Usage: work, task, employment; a deed, action; that which is wrought or made, a work. |
