@@ -1,23 +1,23 @@
 # 2 Corinthians 9:8
 ---
-<br>
 
+**KJV**
 > [!SCRIPTURE]  
 >  
 > --- 
 > **2 Corinthians 9:8 KJV**  
 > 8 And God *is* able to make all grace abound toward you; that ye, always having all sufficiency in all *things*, may abound to every good work:
 
+**BSB**
 > [!SCRIPTURE]  
 >  
 > --- 
-> **2 Corinthians 9:8 BSB** 
 > 8 And He is able to make all grace abound to you, so that in all things, at all times, having all that you need, you will abound in every good work.
 
+**BLB**
 > [!SCRIPTURE]  
 >  
 > --- 
-> **2 Corinthians 9:8 BLB** 
 > 8 And God *is* able to make all grace abound to you, so that in every way, always, having all sufficiency, you may abound in every good work.
 
 **AMP**
