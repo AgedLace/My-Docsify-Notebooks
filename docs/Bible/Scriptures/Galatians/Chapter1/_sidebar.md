@@ -4,7 +4,7 @@
   - [Scripture Passages](/Bible/Scriptures/)
     - [Galatians](/Bible/Scriptures/Galatians/)
       - [Chapter 1](/Bible/Scriptures/Galatians/Chapter1/)
-        - [Galatians 1:1](/Bible/Scriptures/Galatians/Galatians.1.1)
+        - [Galatians 1:1](/Bible/Scriptures/Galatians/Chapter1/Galatians.1.1)
   - [Scripture Topics](/Bible/Topics/)
   - Word Studies
     - [Hebrew Word Studies](/Bible/Words/Hebrew/)
