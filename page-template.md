@@ -1,10 +1,10 @@
-## Scripture Address
+# Scripture Address
 ---
-<br />
+<br>
 
 > [!SCRIPTURE]  
 >  
 > --- 
-> <h5></h5>
+> ** **  
 > 
 > 
