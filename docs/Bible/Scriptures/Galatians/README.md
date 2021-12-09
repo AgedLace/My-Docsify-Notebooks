@@ -1,0 +1,6 @@
+# Scripture Passage Studies
+---
+
+- [Galatians]
+
+
